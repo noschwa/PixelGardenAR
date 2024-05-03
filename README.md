@@ -2,5 +2,5 @@
 
 ## Collaborators
 Noah Schwartz  
-Benjamin Griepp
+Benjamin Griepp  
 Sophia Ingram
